@@ -63,7 +63,7 @@ Beyond these core and specialized components, Spark’s ecosystem integrates wit
 ## Conclusion
 Apache Spark provides a unified, high-performance, and scalable platform for both batch and streaming data processing. Its modular architecture and ecosystem integrations allow organizations to process and analyze large amounts of data efficiently, across various sources and formats.
 
-For more detailed information, documentation, and tutorials, visit the [official Spark documentation](https://spark.apache.org/docs/latest/). (Replace this link if you are keeping everything offline or if you want to refer to a local resource.)
+For more detailed information, documentation, and tutorials, visit the [official Spark documentation](https://spark.apache.org/docs/latest/).
 
 ---
 
